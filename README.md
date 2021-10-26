@@ -1,7 +1,7 @@
 # Hello, I'm Lailson Sobral 👋
 
 - 👔 I’m currently working at FedEx
-- 🌱 I’m currently learning **ReactJS**,**NextJS** and **TypeScript**
+- 🌱 I’m currently learning **ReactJS**, **NextJS** and **TypeScript**
 - ⚡ Curiosity: After a long period away from the tech world, I'm returning and this time to stay!
 - 🚀 Goal: Start a career as a web developer **front-end**
 
