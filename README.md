@@ -19,7 +19,7 @@
 <a href="https://portfolio-lailsonlm.vercel.app/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Portfolio-1B1B1B" alt="portfolio"/>
 </a>
-<a href="https://comunidev.vercel.app/" target="_blank">
+<a href="https://comunidev.tech/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Comunidev-1B1B1B" alt="Comunidev"/>
 </a> 
 </p>
