@@ -4,11 +4,11 @@
 [![E-mail](https://img.shields.io/badge/-lailsonlm@hotmail.com-F04524?style=flat&labelColor=F04524&label=📧&Color=white)](mailto:lailsonlm@hotmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%20-blue)](https://portfolio-lailsonlm.vercel.app/)
 [![Comunidev](https://img.shields.io/badge/Comunidev-%20-F54703)](https://comunidev.vercel.app/)
+[![YouTube](https://img.shields.io/badge/Comunidev-%20-F54703)](https://www.youtube.com/channel/UCLFzhc-q7wWXsTZlIGakh2w)
 
 
-- 👔 I’m currently working at FedEx
+- 👔 Currently working at FedEx, in a career transition phase
 - 🌱 I’m currently learning **ReactJS**, **NextJS** and **TypeScript**
-- ⚡ Curiosity: After a long period away from the tech world, I'm returning and this time to stay!
 - 🚀 Goal: Start a career as a web developer **front-end**
 
 
