@@ -2,7 +2,7 @@
 
 - 👔 Currently working at FedEx, in a career transition phase
 - 🌱 I’m currently learning **ReactJS**, **NextJS** and **TypeScript** and doing some freelance work
-- 🚀 Goal: Start a career as a web developer **front-end**
+- 🚀 Goal: Start a career as a web developer **Full Stack**
 
 ## Contact
 
